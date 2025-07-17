@@ -1,6 +1,7 @@
 # 👋 Olá, eu sou Carolina
 
 💻 Desenvolvedora Back-end com forte interesse em tecnologia e integração de sistemas. 
+
 🚀 Atualmente estudando **Java**, **Spring Boot** e **React**
 
 ### 📬 Como me encontrar:
