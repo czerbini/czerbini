@@ -2,8 +2,9 @@
 
 💻 Desenvolvedora Back-end com forte interesse em tecnologia e integração de sistemas. 
 
-🚀 Atualmente estudando **Java**, **Spring Boot** e **React**
+🚀 Atualmente estudando **Java**, **Spring Boot**, **Nodejs**, **HTML**, **CSS**, **Javascript** e **React**
 <p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40px" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40px" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40px" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40px" />
