@@ -9,6 +9,8 @@
 [![Email](https://img.shields.io/badge/Gmail-red)](mailto:zerbinecarolina@gmail.com)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-green)](https://wa.me/5544991384600)
 
+![Contador de visitantes](https://komarev.com/ghpvc/?username=czerbini&color=blue&style=flat-square)
+
 ---
 
 ### 🚀 Minhas Skills:
