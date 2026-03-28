@@ -32,8 +32,10 @@
 ---
 
 ### 📊 GitHub Stats:
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=czerbini&show_icons=true&theme=radical)
-![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=czerbini&layout=compact&theme=radical)
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=czerbini&show_icons=true&theme=radical&cache_seconds=86400"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=czerbini&layout=compact&theme=radical&cache_seconds=86400"/>
+</p>
 
 ---
 
