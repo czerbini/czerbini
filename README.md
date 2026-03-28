@@ -5,20 +5,12 @@
 **Back-end Developer · Salesforce Marketing Cloud · Scrum Master**
 
 🚀 Tenho forte interesse em **Back-end**
-💼 Experiência com **Salesforce Marketing Cloud**  
+💼 Experiência com **Salesforce Marketing Cloud**, **automatizações** e **integrações via API REST** 
 📚 Estudando **Java + Spring Boot**
 
 ---
 
 ## Sobre
-
-Atuação em **Salesforce Marketing Cloud** desenvolvendo automações, integrações via API REST e análise de dados.
-**Scrum Master**, facilitando times ágeis com foco em entrega de valor e melhoria contínua.
-Atualmente aprofundando meu conhecimentos em **Java com Spring Boot**.
-
----
-
-## Expertise
 
 **Salesforce Marketing Cloud**
 - Desenvolvimento de jornadas e automações no Journey Builder
@@ -32,8 +24,8 @@ Atualmente aprofundando meu conhecimentos em **Java com Spring Boot**.
 **Metodologia Ágil — Scrum Master**
 - Facilitação de cerimônias ágeis (Planning, Daily, Review, Retro)
 - Remoção de impedimentos
-- Interface entre time técnico e PO
-- Foco em melhoria contínua
+- Interface entre time técnico e Product Owner
+- Foco em melhoria contínua e entrega de valor
 
 ---
 
