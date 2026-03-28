@@ -1,7 +1,4 @@
 # 👋 Olá, eu sou Carolina
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=czerbini&theme=radical&cache_seconds=86400"/>
-</p>
 
 💻 Desenvolvedora Back-end com forte interesse em tecnologia e integração de sistemas. 
 
