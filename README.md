@@ -34,13 +34,13 @@
 ### 📊 GitHub Stats:
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=czerbini&show_icons=true&theme=radical&cache_seconds=86400"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=czerbini&layout=compact&theme=radical&cache_seconds=86400"/>
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=czerbini&show_icons=true&theme=radical"/>
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=czerbini&layout=compact&theme=radical"/>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=czerbini&theme=radical&cache_seconds=86400"/>
-</p>>
+  <img src="https://streak-stats.demolab.com?user=czerbini&theme=radical"/>
+</p>
 
 ---
 
