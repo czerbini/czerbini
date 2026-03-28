@@ -1,41 +1,56 @@
-# 👩‍💻 Carolina Zerbini
+<div align="center">
 
-🚀 Desenvolvedora Back-end com forte interesse em **integrações, APIs e automação**  
+# Carolina Zerbini
+
+**Back-end Developer · Salesforce Marketing Cloud · Scrum Master**
+
+🚀 Tenho forte interesse em **Back-end**
 💼 Experiência com **Salesforce Marketing Cloud**  
-📚 Estudando **Java + Spring Boot + arquitetura de sistemas**
+📚 Estudando **Java + Spring Boot**
 
 ---
 
-## 🧠 Sobre mim
-Trabalho com Salesforce Marketing Cloud, atuando na criação de automações e integrações com APIs.
+## Sobre
+
+Atuação em **Salesforce Marketing Cloud** desenvolvendo automações, integrações via API REST e análise de dados.
+**Scrum Master**, facilitando times ágeis com foco em entrega de valor e melhoria contínua.
+Atualmente aprofundando meu conhecimentos em **Java com Spring Boot**.
 
 ---
 
-## ⚙️ Tech Stack
+## Expertise
+
+**Salesforce Marketing Cloud**
+- Desenvolvimento de jornadas e automações no Journey Builder
+- Queries SQL no Query Studio.
+- Integrações via REST API com sistemas externos
+
+**Desenvolvimento Back-end**
+- Java · Spring Boot · APIs REST
+- SQL · MySQL · Node.js
+
+**Metodologia Ágil — Scrum Master**
+- Facilitação de cerimônias ágeis (Planning, Daily, Review, Retro)
+- Remoção de impedimentos
+- Interface entre time técnico e PO
+- Foco em melhoria contínua
+
+---
+
+## Tech Stack
 
 <p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40px"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40px"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40px"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40px"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40px"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="36px" title="Java"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="36px" title="Spring Boot"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="36px" title="JavaScript"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="36px" title="MySQL"/>
 </p>
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
-![stats](https://github-readme-stats-sigma-five.vercel.app/api?username=czerbini&show_icons=true&theme=radical)
-![langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=czerbini&layout=compact&theme=radical)
-
----
-
-## 📫 Contato
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue)](https://www.linkedin.com/in/carolina-z-62bb6b82/)
-[![Email](https://img.shields.io/badge/Gmail-red)](mailto:zerbinecarolina@gmail.com)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-green)](https://wa.me/5544991384600)
-
----
-
-![visitors](https://komarev.com/ghpvc/?username=czerbini&color=blue)
+<p>
+  <img height="160" src="https://github-readme-stats-sigma-five.vercel.app/api?username=czerbini&show_icons=true&theme=radical&hide_border=true"/>
+  <img height="160" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=czerbini&layout=compact&theme=radical&hide_border=true"/>
+</p>arev.com/ghpvc/?username=czerbini&color=blue)
