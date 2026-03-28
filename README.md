@@ -1,6 +1,5 @@
-<div align="center">
 
-# Carolina Zerbini
+# 👩‍💻 Carolina Zerbini
 
 **Back-end Developer · Salesforce Marketing Cloud · Scrum Master**
 
