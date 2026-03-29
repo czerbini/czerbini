@@ -14,9 +14,9 @@
 **Salesforce Marketing Cloud**
 - Desenvolvimento de jornadas e automações no Journey Builder
 - Queries SQL no Query Studio.
-- Integrações via REST API com sistemas externos
+- Integrações via REST API com sistemas consumidores
 
-**Desenvolvimento Back-end**
+**Back-end**
 - Java · Spring Boot · APIs REST
 - SQL · MySQL
 
