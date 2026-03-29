@@ -13,7 +13,7 @@
 
 **Salesforce Marketing Cloud**
 - Desenvolvimento de jornadas e automações no Journey Builder e Automation Studio
-- Queries SQL no Query Studio.
+- Queries SQL em Query Studio.
 - Integrações via REST API com sistemas consumidores
 
 **Back-end**
