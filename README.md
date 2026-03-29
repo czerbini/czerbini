@@ -23,7 +23,7 @@
 **Metodologia Ágil — Scrum Master**
 - Facilitação de cerimônias ágeis (Planning, Daily, Review, Retro)
 - Remoção de impedimentos
-- Interface entre time técnico e Product Owner
+- Interface entre equipe técnica e Product Owner
 - Foco em melhoria contínua e entrega de valor
 
 ---
@@ -44,4 +44,5 @@
 <p>
   <img height="160" src="https://github-readme-stats-sigma-five.vercel.app/api?username=czerbini&show_icons=true&theme=radical&hide_border=true"/>
   <img height="160" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=czerbini&layout=compact&theme=radical&hide_border=true"/>
-</p>arev.com/ghpvc/?username=czerbini&color=blue)
+</p>
+![visitors](https://komarev.com/ghpvc/?username=czerbini&color=blueviolet&style=flat)
