@@ -12,7 +12,7 @@
 ## Conhecimentos
 
 **Salesforce Marketing Cloud**
-- Desenvolvimento de jornadas e automações no Journey Builder
+- Desenvolvimento de jornadas e automações no Journey Builder e Automation Studio
 - Queries SQL no Query Studio.
 - Integrações via REST API com sistemas consumidores
 
