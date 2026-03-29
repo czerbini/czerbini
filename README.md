@@ -48,6 +48,3 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=czerbini&color=0075B4&style=for-the-badge)
 
-![Profile Views](https://visitcount.itsvg.in/api?id=czerbini&icon=0&color=0)
-
-![Profile Views](https://visitcount.itsvg.in/api?id=czerbini&icon=5&color=6)
