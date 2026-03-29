@@ -46,4 +46,4 @@
   <img height="160" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=czerbini&layout=compact&theme=radical&hide_border=true"/>
 </p>
 
-![visitors](https://komarev.com/ghpvc/?username=czerbini&color=blueviolet&style=flat)
+![Profile Views](https://komarev.com/ghpvc/?username=czerbini&color=0075B4&style=for-the-badge)
