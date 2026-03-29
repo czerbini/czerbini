@@ -9,7 +9,7 @@
 
 ---
 
-## Sobre
+## Conhecimentos
 
 **Salesforce Marketing Cloud**
 - Desenvolvimento de jornadas e automações no Journey Builder
