@@ -39,6 +39,41 @@
 
 ---
 
+## 🚀 Projeto em Destaque
+
+### 💰 Sistema de Cobrança Financeira Automatizada
+
+Desenvolvi uma aplicação backend completa utilizando **Java + Spring Boot**, focada na automação de processos de cobrança e comunicação com clientes.
+
+O sistema simula um cenário real de mercado, sendo responsável pela gestão de faturas e envio inteligente de notificações conforme o status e data de vencimento.
+
+### 🔥 Funcionalidades implementadas
+
+- 📄 Criação de faturas vinculadas a clientes  
+- 🔍 Consulta de faturas por CPF  
+- ⏰ Lembretes automáticos de vencimento (D-1)  
+- ⚠️ Notificação de faturas vencidas  
+- 📩 Envio de segunda via de fatura  
+- 🔄 Atualização automática de status (EMITIDA → VENCIDA)  
+
+### 🧠 Destaques técnicos
+
+- Desenvolvimento de **APIs REST com Spring Boot**  
+- Uso de **Spring Data JPA** para persistência de dados  
+- Modelagem com **relacionamento entre entidades (Cliente ↔ Fatura)**  
+- Aplicação de **validações com Jakarta Validation**  
+- Estrutura em camadas (**Controller · Service · Repository · DTO**)  
+- Tratamento de regras de negócio baseadas em datas (`LocalDate`)  
+
+### 🛠️ Tecnologias utilizadas
+
+- Java · Spring Boot · JPA (Hibernate)  
+- MySQL  
+- Lombok  
+- Maven  
+
+  ---
+
 ## GitHub Stats
 
 <p>
