@@ -39,7 +39,7 @@
 
 ---
 
-## 🚀 Projeto
+## 🚀 Projeto em Destaque  
 
 ### 💰 Sistema de Cobrança Financeira Automatizada
 
