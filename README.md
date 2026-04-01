@@ -1,11 +1,13 @@
 
-# 👩‍💻 Carolina Zerbini
+# Carolina Zerbini
 
 **Back-end Developer · Salesforce Marketing Cloud · Scrum Master**
 
-🚀 Tenho forte interesse em **Back-end**  
-💼 Experiência com **Salesforce Marketing Cloud**, **automatizações** e **integrações via API REST**  
-📚 Estudando **Java + Spring Boot**  
+Atuo com tecnologia, tenho experiência em Salesforce Marketing Cloud e em ambientes que utilizam metodologias ágeis (Scrum), participando de rotinas como planejamento, refinamento, homologações e entregas em produção.
+
+Atualmente, venho direcionando meus esforços em aprofundar meu conhecimeno em backend com Java e Spring Boot, construindo projetos práticos com foco em APIs REST, modelagem de dados e implementação de regras de negócio.
+
+Tenho interesse em evoluir como desenvolvedor backend, buscando aplicar boas práticas e construção de soluções. Minha experiência contribui com uma visão orientada a negócio, comunicação, trabalho em equipe e ambientes ágeis.
 
 ---
 
@@ -39,33 +41,41 @@
 
 ---
 
-## 🚀 Projetos 
+## Principais Projetos 
 
-### 💰 Sistema de Cobrança Financeira Automatizada
+### Sistema de Cobrança Financeira
 
-Desenvolvi uma aplicação backend utilizando **Java + Spring Boot**, para a automação de processos de cobrança e comunicação com clientes.
+Sistema de Cobrança Financeira
 
-O sistema simula um cenário de mercado, sendo responsável pelo cadastro e envio de notificações para o clientes conforme o status e data de vencimento das faturas.
+Implementei uma aplicação backend  utilizando Java + Spring Boot, para a automação do ciclo de cobrança e comunicação com clientes.
 
-### 🔥 Funcionalidades implementadas
+O sistema foi projetado para simular um cenário real de mercado, com o gerenciamento de clientes e faturas, e a orquestração de notificações automatizadas via e-mail com base em regras de negócio.
 
-- 📄 Criação de faturas vinculadas a clientes  
-- 🔍 Consulta de faturas por CPF  
-- ⏰ Lembretes automáticos de vencimento (D-1)  
-- ⚠️ Notificação de faturas vencidas  
-- 📩 Envio de segunda via de fatura  
-- 🔄 Atualização automática de status (EMITIDA → VENCIDA)  
+A solução envia para os clientes comunicações como lembretes de vencimento (D-1), notificações de inadimplência por faturas vencidas e emissão de segunda via de faturas.
 
-### 🧠 Destaques técnicos
+### Funcionalidades implementadas
 
-- Desenvolvimento de **APIs REST com Spring Boot**  
-- Uso de **Spring Data JPA** para persistência de dados  
-- Modelagem com **relacionamento entre entidades (Cliente ↔ Fatura)**  
-- Aplicação de **validações com Jakarta Validation**  
-- Estrutura em camadas (**Controller · Service · Repository · DTO**)  
-- Tratamento de regras de negócio baseadas em datas (`LocalDate`)  
+Criação de clientes e faturas com relacionamento 1:N (um cliente pode possuir múltiplas faturas, e cada fatura pertence a um único cliente)
+Consulta de faturas por identificador (CPF).
+Disparo automatizado de notificações de vencimento (D-1).
+Identificação e notificação de faturas em aberto.
+Envio de segunda via de faturas.
+Atualização automática de status com base em regras de status e data (EMITIDA → VENCIDA).
 
-### 🛠️ Tecnologias utilizadas
+
+###  Destaques técnicos
+
+Desenvolvimento de APIs RESTful seguindo boas práticas de design.
+Arquitetura em camadas (Controller · Service · Repository · DTO).
+Persistência de dados com Spring Data JPA (Hibernate).
+Modelagem de domínio com relacionamento entre entidades (Cliente ↔ Fatura).
+Implementação de validações com Jakarta Bean Validation.
+Mapper - DTO.
+Aplicação de regras de negócio baseadas em manipulação de datas.
+Organização do código com legibilidade, manutenibilidade e separação de responsabilidades.
+
+
+### Tecnologias utilizadas
 
 - Java · Spring Boot · JPA (Hibernate)  
 - MySQL  
