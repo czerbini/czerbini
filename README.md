@@ -3,11 +3,11 @@
 
 **Back-end Developer · Salesforce Marketing Cloud · Scrum Master**
 
-Atuo com tecnologia, tenho experiência em Salesforce Marketing Cloud e em ambientes que utilizam metodologias ágeis (Scrum), participando de rotinas como planejamento, refinamento, homologações e entregas em produção.
+Atuo com tecnologia, tenho experiência em Salesforce Marketing Cloud e atuação em times ágeis utilizando Scrum, com foco em entregas contínuas e colaboração em equipe, participando de rotinas como planejamento, refinamento, homologações e publicações em produção.
 
-Atualmente, venho direcionando meus esforços em aprofundar meu conhecimeno em backend com Java e Spring Boot, construindo projetos práticos com foco em APIs REST, modelagem de dados e implementação de regras de negócio.
+Atualmente, venho desenvolvendo projetos práticos para consilidar meu conhecimeno em backend com Java e Spring Boot, APIs REST, modelagem de dados e implementação de regras de negócio.
 
-Tenho interesse em evoluir como desenvolvedor backend, buscando aplicar boas práticas e construção de soluções. Minha experiência contribui com uma visão orientada a negócio, comunicação, trabalho em equipe e ambientes ágeis.
+Tenho interesse em evoluir como desenvolvedor backend, buscando aplicar boas práticas na construção de soluções. Minha experiência contribui com uma visão orientada a processo, comunicação, trabalho em equipe e ambientes ágeis.
 
 ---
 
@@ -45,9 +45,7 @@ Tenho interesse em evoluir como desenvolvedor backend, buscando aplicar boas pr�
 
 ### Sistema de Cobrança Financeira
 
-Sistema de Cobrança Financeira
-
-Implementei uma aplicação backend  utilizando Java + Spring Boot, para a automação do ciclo de cobrança e comunicação com clientes.
+Implementei uma aplicação backend utilizando Java + Spring Boot, para a automação do ciclo de cobrança e comunicação com clientes.
 
 O sistema foi projetado para simular um cenário real de mercado, com o gerenciamento de clientes e faturas, e a orquestração de notificações automatizadas via e-mail com base em regras de negócio.
 
