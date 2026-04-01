@@ -7,7 +7,7 @@ Atuo com tecnologia, tenho experiência em Salesforce Marketing Cloud, atuação
 
 Atualmente, venho desenvolvendo projetos práticos para consilidar meu conhecimeno em backend com Java e Spring Boot, APIs REST, modelagem de dados e implementação de regras de negócio.
 
-Tenho interesse em evoluir como desenvolvedor backend, buscando aplicar boas práticas na construção de soluções. Minha experiência contribui com uma visão orientada a processo, comunicação, trabalho em equipe e ambientes ágeis.
+Tenho interesse em evoluir como desenvolvedor backend, buscando aplicar boas práticas na construção de soluções. A minha experiência contribui com uma visão orientada a processo, comunicação, trabalho em equipe e ambientes ágeis.
 
 ---
 
@@ -26,7 +26,7 @@ Tenho interesse em evoluir como desenvolvedor backend, buscando aplicar boas pr�
 - Facilitação de cerimônias ágeis (Planning, Daily, Review, Retro)
 - Remoção de impedimentos
 - Interface entre equipe técnica e Product Owner
-- Foco em melhoria contínua e entrega de valor
+- Foco em entregas contínua e melhoria no processo
 
 ---
 
