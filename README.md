@@ -14,9 +14,9 @@ Tenho interesse em evoluir no desenvolvimento de sofware buscando aplicar boas p
 ## Conhecimentos
 
 **Salesforce Marketing Cloud**
-- Desenvolvimento de jornadas e automações no Journey Builder e Automation Studio
+- Desenvolvimento de jornadas de aquisição, boas-vindas, cobrana financeira, OTTs e automações no Journey Builder e Automation Studio.
 - Queries SQL em Query Studio.
-- Integrações via REST API com sistemas consumidores
+- Integrações via REST API com sistemas consumidores.
 
 **Back-end**
 - Java · Spring Boot · APIs REST
