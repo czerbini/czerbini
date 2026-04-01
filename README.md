@@ -49,7 +49,7 @@ Implementei uma aplicação backend utilizando Java + Spring Boot, para a automa
 
 O sistema foi projetado para simular um cenário real de mercado, com o gerenciamento de clientes e faturas, e a orquestração de notificações automatizadas via e-mail com base em regras de negócio.
 
-A solução envia para os clientes comunicações como lembretes de vencimento (D-1), notificações de inadimplência por faturas vencidas e emissão de segunda via de faturas.
+A solução envia comunicações para os clientes como lembretes de vencimento (D-1), notificações de inadimplência por faturas vencidas e emissão de segunda via de faturas.
 
 ### Funcionalidades implementadas
 
@@ -63,14 +63,13 @@ Atualização automática de status com base em regras de status e data (EMITIDA
 
 ###  Destaques técnicos
 
-Desenvolvimento de APIs RESTful seguindo boas práticas de design.
-Arquitetura em camadas (Controller · Service · Repository · DTO).
-Persistência de dados com Spring Data JPA (Hibernate).
-Modelagem de domínio com relacionamento entre entidades (Cliente ↔ Fatura).
-Implementação de validações com Jakarta Bean Validation.
-Mapper - DTO.
-Aplicação de regras de negócio baseadas em manipulação de datas.
-Organização do código com legibilidade, manutenibilidade e separação de responsabilidades.
+Desenvolvimento de APIs RESTful seguindo boas práticas de design.  
+Arquitetura em camadas (Controller · Service · Repository · DTO).  
+Persistência de dados com Spring Data JPA (Hibernate).  
+Modelagem de domínio com relacionamento entre entidades (Cliente ↔ Fatura).  
+Implementação de validações com Jakarta Bean Validation.  
+Aplicação de regras de negócio baseadas em manipulação de datas.  
+Organização do código com legibilidade, manutenibilidade e separação de responsabilidades.  
 
 
 ### Tecnologias utilizadas
