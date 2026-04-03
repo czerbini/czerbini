@@ -3,7 +3,7 @@
 
 **Back-end Developer · Salesforce Marketing Cloud · Scrum Master**
 
-Atuo com tecnologia, tenho experiência em Salesforce Marketing Cloud, em equipes ágeis utilizando Scrum, com foco em entregas contínuas e contribuindo em rotinas de planejamento, refinamento, homologação, publicação em produção e suporte.
+Atuo com tecnologia, tenho experiência com Salesforce Marketing Cloud, em equipes ágeis utilizando Scrum, com foco em entregas contínuas e contribuindo em rotinas de planejamento, refinamento, homologação, publicação em produção e suporte.
 
 Atualmente, venho desenvolvendo projetos práticos para consolidar meu conhecimentos em backend com Java, Spring Boot, APIs REST, modelagem de dados e programação orienta a objetos. 
 
